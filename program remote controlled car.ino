@@ -1,3 +1,7 @@
+/*
+Code from SkyNow_ 2022
+*/
+
 #include <AFMotor.h>
 #include <SoftwareSerial.h> 
 
