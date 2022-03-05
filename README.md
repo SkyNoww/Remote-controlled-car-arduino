@@ -1,6 +1,8 @@
 # Remote-controlled-car-arduino
 Remote controlled car arduino with phone
 
+This code is from SkyNow_
+
 This program is compatible with the robot MBOT 
 
 This project consists of operating a car using your phone.
